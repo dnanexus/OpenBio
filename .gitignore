@@ -1,0 +1,32 @@
+*.swp
+*.pyc
+*.pyo
+**/.idea/
+.vscode/
+_build/
+*.egg-info/
+
+# Mac OS X hidden files
+.DS_Store
+
+# R session files
+.RData
+.Rhistory
+
+# artifacts of running spark locally
+derby.log
+metastore_db/
+
+# Local Spark history server artifacts
+history-server-local/event-logs
+history-server-local/history.properties
+
+# jupyter checkpoints
+*/.ipynb_checkpoint/*
+
+# Files we generate
+
+
+# Local cruft
+*.tar.gz
+tmp.*
