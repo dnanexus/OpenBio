@@ -22,7 +22,7 @@ history-server-local/event-logs
 history-server-local/history.properties
 
 # jupyter checkpoints
-*/.ipynb_checkpoint/*
+.ipynb_checkpoints
 
 # Files we generate
 
