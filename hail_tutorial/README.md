@@ -20,3 +20,8 @@ The notebooks in this directory show examples of running common Hail operations 
 
 
 See https://documentation.dnanexus.com/science/using-hail-to-analyze-genomic-data for additional information on each notebook, including JupyterLab with Spark Cluster app launch specs for different datasets.
+
+
+## As-Is Software Disclaimer
+
+This content in this repository is delivered “As-Is”. Notwithstanding anything to the contrary, DNAnexus will have no warranty, support, liability or other obligations with respect to Materials provided hereunder.
